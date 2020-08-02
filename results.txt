@@ -1,0 +1,197 @@
+Wings: 4       Order: 4                              Total Price: $4.55      
+Wings: 5       Order: 5                              Total Price: $5.70      
+Wings: 6       Order: 6                              Total Price: $6.80      
+Wings: 7       Order: 7                              Total Price: $7.95      
+Wings: 8       Order: 8                              Total Price: $9.10      
+Wings: 9       Order: 9                              Total Price: $10.20     
+Wings: 10      Order: 10                             Total Price: $11.35     
+Wings: 11      Order: 11                             Total Price: $12.50     
+Wings: 12      Order: 12                             Total Price: $13.60     
+Wings: 13      Order: 13                             Total Price: $14.75     
+Wings: 14      Order: 4, 10                          Total Price: $15.90      Savings: $0.00      
+Wings: 15      Order: 15                             Total Price: $17.00     
+Wings: 16      Order: 16                             Total Price: $18.15     
+Wings: 17      Order: 8, 9                           Total Price: $19.30      Savings: $0.00      
+Wings: 18      Order: 18                             Total Price: $20.40     
+Wings: 19      Order: 9, 10                          Total Price: $21.55      Savings: $0.00      
+Wings: 20      Order: 20                             Total Price: $22.70     
+Wings: 21      Order: 9, 12                          Total Price: $23.80      Savings: $0.00      
+Wings: 22      Order: 22                             Total Price: $24.95     
+Wings: 23      Order: 5, 18                          Total Price: $26.10      Savings: $0.00      
+Wings: 24      Order: 6, 18                          Total Price: $27.20      Savings: $0.05      
+Wings: 25      Order: 25                             Total Price: $27.80     
+Wings: 26      Order: 26                             Total Price: $28.95     
+Wings: 27      Order: 27                             Total Price: $30.10     
+Wings: 28      Order: 28                             Total Price: $31.20     
+Wings: 29      Order: 29                             Total Price: $32.35     
+Wings: 30      Order: 30                             Total Price: $33.50     
+Wings: 31      Order: 6, 25                          Total Price: $34.60     
+Wings: 32      Order: 4, 28                          Total Price: $35.75     
+Wings: 33      Order: 4, 29                          Total Price: $36.90     
+Wings: 34      Order: 6, 28                          Total Price: $38.00     
+Wings: 35      Order: 35                             Total Price: $39.15     
+Wings: 36      Order: 4, 4, 28                       Total Price: $40.30     
+Wings: 37      Order: 6, 6, 25                       Total Price: $41.40     
+Wings: 38      Order: 4, 6, 28                       Total Price: $42.55     
+Wings: 39      Order: 4, 35                          Total Price: $43.70     
+Wings: 40      Order: 40                             Total Price: $44.80     
+Wings: 41      Order: 6, 35                          Total Price: $45.95     
+Wings: 42      Order: 4, 4, 6, 28                    Total Price: $47.10     
+Wings: 43      Order: 6, 6, 6, 25                    Total Price: $48.20     
+Wings: 44      Order: 4, 40                          Total Price: $49.35     
+Wings: 45      Order: 4, 6, 35                       Total Price: $50.50      Savings: $0.00      
+Wings: 46      Order: 6, 40                          Total Price: $51.60     
+Wings: 47      Order: 6, 6, 35                       Total Price: $52.75     
+Wings: 48      Order: 4, 4, 40                       Total Price: $53.90     
+Wings: 49      Order: 6, 6, 6, 6, 25                 Total Price: $55.00     
+Wings: 50      Order: 25, 25                         Total Price: $55.60     
+Wings: 51      Order: 25, 26                         Total Price: $56.75     
+Wings: 52      Order: 26, 26                         Total Price: $57.90     
+Wings: 53      Order: 25, 28                         Total Price: $59.00     
+Wings: 54      Order: 26, 28                         Total Price: $60.15     
+Wings: 55      Order: 25, 30                         Total Price: $61.30     
+Wings: 56      Order: 28, 28                         Total Price: $62.40     
+Wings: 57      Order: 4, 25, 28                      Total Price: $63.55     
+Wings: 58      Order: 4, 25, 29                      Total Price: $64.70     
+Wings: 59      Order: 6, 25, 28                      Total Price: $65.80     
+Wings: 60      Order: 25, 35                         Total Price: $66.95      Savings: $0.05      
+Wings: 61      Order: 4, 4, 25, 28                   Total Price: $68.10     
+Wings: 62      Order: 6, 6, 25, 25                   Total Price: $69.20     
+Wings: 63      Order: 4, 6, 25, 28                   Total Price: $70.35     
+Wings: 64      Order: 4, 25, 35                      Total Price: $71.50     
+Wings: 65      Order: 25, 40                         Total Price: $72.60     
+Wings: 66      Order: 6, 25, 35                      Total Price: $73.75     
+Wings: 67      Order: 4, 4, 6, 25, 28                Total Price: $74.90     
+Wings: 68      Order: 6, 6, 6, 25, 25                Total Price: $76.00     
+Wings: 69      Order: 4, 25, 40                      Total Price: $77.15     
+Wings: 70      Order: 70                             Total Price: $78.30     
+Wings: 71      Order: 6, 25, 40                      Total Price: $79.40     
+Wings: 72      Order: 6, 6, 25, 35                   Total Price: $80.55     
+Wings: 73      Order: 4, 4, 25, 40                   Total Price: $81.70     
+Wings: 74      Order: 6, 6, 6, 6, 25, 25             Total Price: $82.80     
+Wings: 75      Order: 25, 25, 25                     Total Price: $83.40     
+Wings: 76      Order: 25, 25, 26                     Total Price: $84.55     
+Wings: 77      Order: 25, 25, 27                     Total Price: $85.70     
+Wings: 78      Order: 25, 25, 28                     Total Price: $86.80     
+Wings: 79      Order: 25, 25, 29                     Total Price: $87.95     
+Wings: 80      Order: 80                             Total Price: $89.10     
+Wings: 81      Order: 6, 25, 25, 25                  Total Price: $90.20     
+Wings: 82      Order: 4, 25, 25, 28                  Total Price: $91.35     
+Wings: 83      Order: 4, 25, 25, 29                  Total Price: $92.50     
+Wings: 84      Order: 6, 25, 25, 28                  Total Price: $93.60     
+Wings: 85      Order: 25, 25, 35                     Total Price: $94.75     
+Wings: 86      Order: 6, 80                          Total Price: $95.90     
+Wings: 87      Order: 6, 6, 25, 25, 25               Total Price: $97.00     
+Wings: 88      Order: 4, 6, 25, 25, 28               Total Price: $98.15     
+Wings: 89      Order: 9, 80                          Total Price: $99.30     
+Wings: 90      Order: 25, 25, 40                     Total Price: $100.40     Savings: $0.05      
+Wings: 91      Order: 6, 25, 25, 35                  Total Price: $101.55    
+Wings: 92      Order: 6, 6, 80                       Total Price: $102.70    
+Wings: 93      Order: 6, 6, 6, 25, 25, 25            Total Price: $103.80    
+Wings: 94      Order: 4, 25, 25, 40                  Total Price: $104.95    
+Wings: 95      Order: 6, 9, 80                       Total Price: $106.10    
+Wings: 96      Order: 6, 25, 25, 40                  Total Price: $107.20    
+Wings: 97      Order: 6, 6, 25, 25, 35               Total Price: $108.35    
+Wings: 98      Order: 6, 6, 6, 80                    Total Price: $109.50    
+Wings: 99      Order: 6, 6, 6, 6, 25, 25, 25         Total Price: $110.60    
+Wings: 100     Order: 25, 25, 25, 25                 Total Price: $111.20     Savings: $0.05      
+Wings: 101     Order: 25, 25, 25, 26                 Total Price: $112.35    
+Wings: 102     Order: 25, 25, 25, 27                 Total Price: $113.50    
+Wings: 103     Order: 25, 25, 25, 28                 Total Price: $114.60    
+Wings: 104     Order: 25, 25, 25, 29                 Total Price: $115.75    
+Wings: 105     Order: 25, 80                         Total Price: $116.90    
+Wings: 106     Order: 6, 25, 25, 25, 25              Total Price: $118.00    
+Wings: 107     Order: 4, 25, 25, 25, 28              Total Price: $119.15    
+Wings: 108     Order: 4, 25, 25, 25, 29              Total Price: $120.30    
+Wings: 109     Order: 6, 25, 25, 25, 28              Total Price: $121.40    
+Wings: 110     Order: 25, 25, 25, 35                 Total Price: $122.55    
+Wings: 111     Order: 6, 25, 80                      Total Price: $123.70    
+Wings: 112     Order: 6, 6, 25, 25, 25, 25           Total Price: $124.80    
+Wings: 113     Order: 4, 6, 25, 25, 25, 28           Total Price: $125.95    
+Wings: 114     Order: 9, 25, 80                      Total Price: $127.10    
+Wings: 115     Order: 25, 25, 25, 40                 Total Price: $128.20    
+Wings: 116     Order: 6, 25, 25, 25, 35              Total Price: $129.35    
+Wings: 117     Order: 6, 6, 25, 80                   Total Price: $130.50    
+Wings: 118     Order: 6, 6, 6, 25, 25, 25, 25        Total Price: $131.60    
+Wings: 119     Order: 4, 25, 25, 25, 40              Total Price: $132.75    
+Wings: 120     Order: 4, 25, 25, 26, 40              Total Price: $133.90    
+Wings: 121     Order: 6, 25, 25, 25, 40              Total Price: $135.00    
+Wings: 122     Order: 6, 25, 25, 26, 40              Total Price: $136.15    
+Wings: 123     Order: 6, 6, 6, 25, 80                Total Price: $137.30    
+Wings: 124     Order: 6, 25, 25, 28, 40              Total Price: $138.40    
+Wings: 125     Order: 125                            Total Price: $139.00    
+Wings: 126     Order: 25, 25, 25, 25, 26             Total Price: $140.15    
+Wings: 127     Order: 25, 25, 25, 26, 26             Total Price: $141.30    
+Wings: 128     Order: 25, 25, 25, 25, 28             Total Price: $142.40    
+Wings: 129     Order: 25, 25, 25, 26, 28             Total Price: $143.55    
+Wings: 130     Order: 5, 125                         Total Price: $144.70    
+Wings: 131     Order: 25, 25, 25, 28, 28             Total Price: $145.80    
+Wings: 132     Order: 7, 125                         Total Price: $146.95    
+Wings: 133     Order: 8, 125                         Total Price: $148.10    
+Wings: 134     Order: 9, 125                         Total Price: $149.20    
+Wings: 135     Order: 10, 125                        Total Price: $150.35    
+Wings: 136     Order: 5, 6, 125                      Total Price: $151.50    
+Wings: 137     Order: 12, 125                        Total Price: $152.60    
+Wings: 138     Order: 6, 7, 125                      Total Price: $153.75    
+Wings: 139     Order: 7, 7, 125                      Total Price: $154.90    
+Wings: 140     Order: 6, 9, 125                      Total Price: $156.00    
+Wings: 141     Order: 7, 9, 125                      Total Price: $157.15    
+Wings: 142     Order: 8, 9, 125                      Total Price: $158.30    
+Wings: 143     Order: 9, 9, 125                      Total Price: $159.40    
+Wings: 144     Order: 9, 10, 125                     Total Price: $160.55    
+Wings: 145     Order: 6, 7, 7, 125                   Total Price: $161.70    
+Wings: 146     Order: 9, 12, 125                     Total Price: $162.80    
+Wings: 147     Order: 6, 7, 9, 125                   Total Price: $163.95    
+Wings: 148     Order: 7, 7, 9, 125                   Total Price: $165.10    
+Wings: 149     Order: 6, 9, 9, 125                   Total Price: $166.20    
+Wings: 150     Order: 25, 125                        Total Price: $166.80     Savings: $0.05      
+Wings: 151     Order: 26, 125                        Total Price: $167.95    
+Wings: 152     Order: 25, 25, 25, 25, 26, 26         Total Price: $169.10    
+Wings: 153     Order: 28, 125                        Total Price: $170.20    
+Wings: 154     Order: 25, 25, 25, 25, 26, 28         Total Price: $171.35    
+Wings: 155     Order: 25, 25, 25, 26, 26, 28         Total Price: $172.50    
+Wings: 156     Order: 25, 25, 25, 25, 28, 28         Total Price: $173.60    
+Wings: 157     Order: 25, 25, 25, 26, 28, 28         Total Price: $174.75    
+Wings: 158     Order: 7, 26, 125                     Total Price: $175.90    
+Wings: 159     Order: 25, 25, 25, 28, 28, 28         Total Price: $177.00    
+Wings: 160     Order: 9, 26, 125                     Total Price: $178.15    
+Wings: 161     Order: 10, 26, 125                    Total Price: $179.30    
+Wings: 162     Order: 9, 28, 125                     Total Price: $180.40    
+Wings: 163     Order: 12, 26, 125                    Total Price: $181.55    
+Wings: 164     Order: 7, 7, 25, 125                  Total Price: $182.70    
+Wings: 165     Order: 12, 28, 125                    Total Price: $183.80    
+Wings: 166     Order: 7, 9, 25, 125                  Total Price: $184.95    
+Wings: 167     Order: 7, 9, 26, 125                  Total Price: $186.10    
+Wings: 168     Order: 9, 9, 25, 125                  Total Price: $187.20    
+Wings: 169     Order: 9, 9, 26, 125                  Total Price: $188.35    
+Wings: 170     Order: 9, 10, 26, 125                 Total Price: $189.50    
+Wings: 171     Order: 9, 9, 28, 125                  Total Price: $190.60    
+Wings: 172     Order: 9, 12, 26, 125                 Total Price: $191.75    
+Wings: 173     Order: 7, 7, 9, 25, 125               Total Price: $192.90    
+Wings: 174     Order: 9, 12, 28, 125                 Total Price: $194.00    
+Wings: 175     Order: 25, 25, 125                    Total Price: $194.60    
+Wings: 176     Order: 25, 26, 125                    Total Price: $195.75    
+Wings: 177     Order: 26, 26, 125                    Total Price: $196.90    
+Wings: 178     Order: 25, 28, 125                    Total Price: $198.00    
+Wings: 179     Order: 26, 28, 125                    Total Price: $199.15    
+Wings: 180     Order: 25, 25, 25, 25, 26, 26, 28     Total Price: $200.30    
+Wings: 181     Order: 28, 28, 125                    Total Price: $201.40    
+Wings: 182     Order: 25, 25, 25, 25, 26, 28, 28     Total Price: $202.55    
+Wings: 183     Order: 25, 25, 25, 26, 26, 28, 28     Total Price: $203.70    
+Wings: 184     Order: 25, 25, 25, 25, 28, 28, 28     Total Price: $204.80    
+Wings: 185     Order: 25, 25, 25, 26, 28, 28, 28     Total Price: $205.95    
+Wings: 186     Order: 9, 26, 26, 125                 Total Price: $207.10    
+Wings: 187     Order: 25, 25, 25, 28, 28, 28, 28     Total Price: $208.20    
+Wings: 188     Order: 9, 26, 28, 125                 Total Price: $209.35    
+Wings: 189     Order: 12, 26, 26, 125                Total Price: $210.50    
+Wings: 190     Order: 9, 28, 28, 125                 Total Price: $211.60    
+Wings: 191     Order: 12, 26, 28, 125                Total Price: $212.75    
+Wings: 192     Order: 7, 9, 25, 26, 125              Total Price: $213.90    
+Wings: 193     Order: 12, 28, 28, 125                Total Price: $215.00    
+Wings: 194     Order: 9, 9, 25, 26, 125              Total Price: $216.15    
+Wings: 195     Order: 9, 9, 26, 26, 125              Total Price: $217.30    
+Wings: 196     Order: 9, 9, 25, 28, 125              Total Price: $218.40    
+Wings: 197     Order: 9, 9, 26, 28, 125              Total Price: $219.55    
+Wings: 198     Order: 9, 12, 26, 26, 125             Total Price: $220.70    
+Wings: 199     Order: 9, 9, 28, 28, 125              Total Price: $221.80    
+Wings: 200     Order: 25, 25, 25, 125                Total Price: $222.40     Savings: $0.10
